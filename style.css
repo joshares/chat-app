@@ -299,7 +299,7 @@ header {
      border: 0.5px solid white;
      width: 250px;
      /* height: 69vh; */
-     height: 430px;
+     height: 80vh;
      margin-top: 70px;
      margin-right: 25%;
     }
@@ -336,7 +336,7 @@ header {
       }
       .empty {
        width: 50%;
-       height: ;
+       height: 65vh;
        position: fixed;
        border: 1px transparent;
        border-radius: 0 0 100% 0;
